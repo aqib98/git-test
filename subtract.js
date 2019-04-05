@@ -1,5 +1,5 @@
 // subtract.js
-function subtract(a, b) {
+function multiply(a, b) {
     // TODO return
     return a-b
 };
