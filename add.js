@@ -5,5 +5,9 @@
 //so .... here we are....
 function add_numbers(a, b) {
     // TODO return
+    if(a>0){
+        console.log('printing a')
+        console.log(a)
+    }
     return a+b
 };
