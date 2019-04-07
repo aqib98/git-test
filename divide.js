@@ -4,4 +4,5 @@
 //functionality as well to do proper cherry-picking another time. Here we go.
 function divide(a, b) {
     // TODO return
+    return a/b
 };
